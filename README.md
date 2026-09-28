@@ -2,6 +2,8 @@
 
 A public showcase for [Sean Liew's Badminton Club Management System](https://badminton-club-liewww.vercel.app/). It introduces the project, explains the club workflow, and lets visitors explore the interface without a club account. The management application itself requires sign-in.
 
+**Live showcase:** [badminton-club-liewwwshowcase.vercel.app](https://badminton-club-liewwwshowcase.vercel.app/)
+
 This repository contains the **showcase website**, not the management application's source code.
 
 ## What the showcase covers
